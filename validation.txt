@@ -1,0 +1,12 @@
+StorageSizer validation
+HTML pages: 35
+Guide pages: 25
+Minimum guide word count: 1509
+Maximum guide word count: 1688
+Broken internal links/assets: 0
+Empty anchors: 0
+Minimum AceCloud links per guide: 2
+Minimum non-AceCloud external links per guide: 2
+Quick Answers per guide: min 1, max 1
+Guides with em dash/en dash: 0
+Guide subfolders: 0
